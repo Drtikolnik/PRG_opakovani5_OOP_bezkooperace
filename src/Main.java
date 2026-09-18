@@ -10,6 +10,8 @@ public class Main {
         System.out.println("1 - přidat studenta");
         System.out.println("2 - vypsat studenty");
         System.out.println("3 - hledat podle jména");
+        System.out.println("4 - přidat učitele");
+        System.out.println("5 - vypsat osoby");
         int vyber = sc.nextInt();
         sc.nextLine();
 
@@ -28,13 +30,28 @@ public class Main {
 
             case 2:
                     ss.vypsatStudenty();
+
                 break;
 
             case 3:
                 System.out.println("zadej jméno");
                 ss.najitDleJmena(sc.nextLine());
                 break;
+
+            case 4:
+                System.out.println("zadej jméno");
+                String jmenoUcitele = sc.nextLine();
+                System.out.println("zadej předmět");
+                String predmet = sc.nextLine();
+                ss.pridatUcitele(new Ucitel(jmenoUcitele, predmet));
+                break;
+
+            case 5:
+                ss.vypsatOsoby();
+                break;
         }
+
+
     }
 
 
