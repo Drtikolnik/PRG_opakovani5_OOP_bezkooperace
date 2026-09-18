@@ -24,7 +24,7 @@ public class SkolniSystem {
     public void vypsatOsoby(){
         for(Osoba o : osoby){
             if(o instanceof Student){
-                ((Student) o).radekVypisu();
+                ((Student)  o).radekVypisu();
             }else{
                 ((Ucitel)o).radekVypisu();
             }

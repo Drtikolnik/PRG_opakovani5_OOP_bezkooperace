@@ -1,6 +1,6 @@
 public interface IVypisovatelny {
 
-    public void radekVypisu();
+    public void  radekVypisu();
 
 
 

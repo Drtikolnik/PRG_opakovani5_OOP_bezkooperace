@@ -7,7 +7,7 @@ public abstract class Osoba {
     }
 
     public String getJmeno(){
-        return jmeno;
+        return  jmeno;
     }
     public void setJmeno(String jmeno){
         this.jmeno = jmeno;

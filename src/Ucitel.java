@@ -2,7 +2,7 @@ public class Ucitel extends Osoba implements IVypisovatelny{
 
     private String predmet;
 
-    public Ucitel(String jmeno, String predmet){
+    public Ucitel(String jmeno,  String predmet){
         this.jmeno = jmeno;
         this.predmet = predmet;
     }

@@ -51,7 +51,7 @@ public class Student extends Osoba implements IVypisovatelny{
         } else if ((prumer>=2.5)&&(prumer<=3.5)) {
             System.out.println("Dobrý");
         } else if ((prumer>=3.5)&&(prumer<=4.5)) {
-            System.out.println("Dostatečný");
+            System.out.println("Dostatečný ");
         }
         else{
             System.out.println("Nedostatečný");
