@@ -5,7 +5,7 @@ public class Student extends Osoba implements IVypisovatelny{
 
 
 
-    Student(String jmeno, int rocnik, double prumer) {
+    public Student(String jmeno, int rocnik, double prumer) {
         this.jmeno = jmeno;
         if ((rocnik>=1)&&(rocnik<=4)){
             this.rocnik = rocnik;

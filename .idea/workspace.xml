@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b42dd7f4-5482-4c98-a4e8-2a7c73e19dee" name="Changes" comment="Student třída">
-      <change afterPath="$PROJECT_DIR$/src/IVypisovatelny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Osoba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ucitel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SkolniSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SkolniSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="b42dd7f4-5482-4c98-a4e8-2a7c73e19dee" name="Changes" comment="Hotovo C" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +27,12 @@
     &quot;assignee&quot;: &quot;Freshjuice7&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Drtikolnik/PRG_opakovani5_OOP_kooperace.git&quot;,
-    &quot;accountId&quot;: &quot;e14348ce-90fe-4c59-83b3-a6723874c9d6&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Drtikolnik/PRG_opakovani5_OOP_bezkooperace.git",
+    "accountId": "7d1c4af0-9183-4cf7-b8d1-cf26420e994b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -87,7 +79,7 @@
       <workItem from="1788769774803" duration="5000" />
       <workItem from="1788769856974" duration="360000" />
       <workItem from="1789718968011" duration="229000" />
-      <workItem from="1789719215456" duration="3104000" />
+      <workItem from="1789719215456" duration="3645000" />
     </task>
     <task id="LOCAL-00001" summary="Student třída">
       <option name="closed" value="true" />
@@ -97,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1788769886949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hotovo C">
+      <option name="closed" value="true" />
+      <created>1789722406790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1789722406790</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hotovo C">
+      <option name="closed" value="true" />
+      <created>1789722619325</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1789722619325</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Student třída" />
-    <option name="LAST_COMMIT_MESSAGE" value="Student třída" />
+    <MESSAGE value="Hotovo C" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hotovo C" />
   </component>
 </project>
